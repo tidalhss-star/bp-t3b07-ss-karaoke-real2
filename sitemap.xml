@@ -21,6 +21,71 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260719-0494.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0167.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0168.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0174.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0176.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/review-002-16g465g.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/t3link-001-tf0ci2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260719-0481.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -86,11 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260719-0494.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260719-0495.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -126,16 +186,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0167.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0168.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0169.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -161,62 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0174.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0175.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/gemini-coverage-20260722-0176.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/review-002-16g465g.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts/t3link-001-tf0ci2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-choice.namanavi.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
